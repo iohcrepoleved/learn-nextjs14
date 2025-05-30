@@ -1,6 +1,6 @@
 import { Suspense } from "react";
-import { API_URL } from "../../../../(home)/page";
 import MovieSimilar from "../../../../../components/movie-similar";
+import { API_URL } from "../../../../../constants";
 import styles from "../../../../../styles/movie-similar.module.css";
 
 

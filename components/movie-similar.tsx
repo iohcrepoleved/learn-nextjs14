@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { API_URL } from "../app/(home)/page";
 import styles from "../styles/movie-similar.module.css";
 
 interface IMovieSimilarProps {
